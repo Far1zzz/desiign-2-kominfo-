@@ -1,0 +1,36 @@
+.carousel-img-size div {
+  height: 700px;
+}
+
+.carousel-img-size img {
+  width: 100%;
+  height: 100%;
+}
+
+.bg-navbar {
+  background-color: #960606;
+  opacity: 0.8;
+}
+
+.second-navbar {
+  background-color: #6f0e19;
+  opacity: 0.8;
+}
+
+.icon-dark {
+  background-color: rgb(255, 255, 255);
+  width: 40px;
+  height: 40px;
+  border-radius: 15px;
+}
+
+.language {
+  font-weight: bold;
+  font-size: 5vh;
+}
+
+.content-navbar {
+  position: relative;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+}
